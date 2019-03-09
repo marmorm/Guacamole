@@ -5,3 +5,5 @@ hot sauce
 sour cream
 jalapinio
 onion
+salt
+pepper
